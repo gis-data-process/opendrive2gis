@@ -1,0 +1,21 @@
+.venv/
+.workbuddy/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+
+# 转换产物
+out/
+out_gdal/
+archive/
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+
+# 测试数据（大文件按需保留）
+data/
